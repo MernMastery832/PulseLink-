@@ -22,8 +22,8 @@
 
 ## Screenshots
 ![WhatsApp Image 2025-03-24 at 10 55 58 AM](https://github.com/user-attachments/assets/d34f28af-a4eb-4bae-8908-389a0cfc6620)
-![WhatsApp Image 2025-03-24 at 10 51 57 AM](https://github.com/user-attachments/assets/1dcfe397-c540-437e-8eba-bb2de8e15a3b)
 ![WhatsApp Image 2025-03-24 at 10 55 58 AM (1)](https://github.com/user-attachments/assets/1626ba47-038d-4153-8be9-d571fe4b2187)
+![WhatsApp Image 2025-03-24 at 10 51 57 AM](https://github.com/user-attachments/assets/1dcfe397-c540-437e-8eba-bb2de8e15a3b)
 
 ## My Contributions  
 As a **Full Stack MERN Developer**, I played a crucial role in both backend and frontend development. I designed and implemented **RESTful APIs** using **Node.js** and **Express.js**, integrating **MongoDB** for storing patient records and appointments securely. I developed **JWT-based authentication** to ensure secure user sessions and implemented **Firebase notifications** for real-time updates.  
